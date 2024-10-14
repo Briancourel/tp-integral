@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp integral", "tp integral\tp integral.csproj", "{6E6933CA-C6B3-490A-9297-8D653831E7D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6933CA-C6B3-490A-9297-8D653831E7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6933CA-C6B3-490A-9297-8D653831E7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6933CA-C6B3-490A-9297-8D653831E7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6933CA-C6B3-490A-9297-8D653831E7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407C0B72-89EE-42E5-89FD-970A78E7260D}
+	EndGlobalSection
+EndGlobal
